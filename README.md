@@ -2,6 +2,8 @@
 
 One (corny) hip hop beat and two sampler instruments using recorded audio from two participants in Brooklyn Public Library's, [Our Streets, Our Stories](http://www.bklynlibrary.org/seniors/our-streets-our-stories-o). 
 
+Although these instruments are intended for live performance, you can listen to **bpl_mix.mp3** for a recorded demo of both the Marty & Inez samplers.
+
 ##Purpose
 Both NYPL and BPL have incredibly rich collections of oral histories, but raw, unstructured, 40 minute interviews of strangers is not engaging content in a traditional sense. How can music augment these peoples' stories and encourage others to connect more with their experiences?
 
